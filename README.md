@@ -6,6 +6,9 @@ AI Sumzz is a web application that uses artificial intelligence to summarize tex
 
 You can try the live demo of the project [here](https://ai-sumzz.netlify.app/).
 
+![image](https://user-images.githubusercontent.com/60794694/233931972-7f24b7b7-74dd-4190-9cc5-34ca5db5becd.png)
+
+
 ## Installation
 
 To run the project locally, follow the steps below:
