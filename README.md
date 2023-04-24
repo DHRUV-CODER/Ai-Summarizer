@@ -15,15 +15,21 @@ To run the project locally, follow the steps below:
 
 1. Clone the repository to your local machine.
 
-   `git clone https://github.com/DHRUV-CODER/Ai-Summarizer.git`
+   ```bash
+   git clone https://github.com/DHRUV-CODER/Ai-Summarizer.git
+   ```
 
 2. Install the dependencies by running the following command in the project directory.
 
-   `yarn` 
+   ```bash
+   yarn
+   ```
 
 3. Start the local server using the following command.
 
-   `yarn dev`
+    ```bash
+   yarn dev
+   ```
 
 4. The app will now be running [here](http://localhost:5173/).
 
